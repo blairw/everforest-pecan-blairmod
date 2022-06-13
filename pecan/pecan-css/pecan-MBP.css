@@ -40,8 +40,8 @@
 	/*--padding-left: calc(*/
 	/*var(--landscape-width) - 58px*/
 	/*);*/
-	--padding-left: 10px;
-  --padding-right: 10px;
+	--padding-left: 3px;
+  --padding-right: 3px;
   --padding-top: 0px;
 
   /* shadow 
