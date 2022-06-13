@@ -39,3 +39,14 @@ Left side:
 Right side:
 
 ![Screenshot 2](docs/screenshot2.png)
+
+
+## Wallpapers attribution
+
+- ['Selective Focus Photo of Leaves'](https://www.pexels.com/photo/selective-focus-photo-of-leaves-1929570/) by FOX. [Pexels license.](https://www.pexels.com/license/)
+
+- ['Scenery of Forest Trees'](https://unsplash.com/photos/LPKk3wtkC-g) by 
+Evgeni Evgeniev. [Unsplash license.](https://unsplash.com/license)
+
+- ['Lago di Braies'](https://unsplash.com/photos/ESkw2ayO2As) by Luca Bravo. [Unsplash license.](https://unsplash.com/license)
+
