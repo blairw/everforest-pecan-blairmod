@@ -147,7 +147,7 @@
   margin-left: calc(
 		var(--landscape-width-total, 0px) + 
     var(--padding-left, 10px) + calc(var(--text-padding, 1ch) * 2) + 1ch +
-      calc(var(--border, 3px) * 2)
+      calc(var(--border, 3px) * 2) + 3px
   );
   line-height: calc(var(--height, 36px) - calc(var(--border, 3px) * 2));
   border-top-left-radius: var(--border-radius-inner, 3px);
@@ -190,7 +190,7 @@
   margin-left: calc(
 		var(--landscape-width-total, 0px) + 
     var(--padding-left, 10px) + calc(var(--text-padding, 1ch) * 4) + 1ch +
-      calc(var(--border, 3px) * 3) + 16ch
+      calc(var(--border, 3px) * 3) + 16ch + 3px
   );
   line-height: calc(var(--height, 36px) - calc(var(--border, 3px) * 2));
   border-top-left-radius: var(--border-radius-inner, 3px);

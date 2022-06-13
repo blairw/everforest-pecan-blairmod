@@ -7,7 +7,7 @@ This is a modified version of [talwat's Everforest theme](https://github.com/tal
 ```zsh
 cd ~/00blair/gitrepos/
 git clone -v https://github.com/blairw/everforest-pecan-blairmod
-ln -s ./everforest-pecan-blairmod/pecan "~/Library/Application Support/Übersicht/widgets/pecan"
+ln -s ~/00blair/gitrepos/everforest-pecan-blairmod/pecan ~/Library/Application\ Support/Übersicht/widgets/pecan
 ```
 
 ## Features
