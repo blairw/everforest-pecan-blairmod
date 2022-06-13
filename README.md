@@ -11,8 +11,8 @@ This is a modified version of [talwat's Everforest theme](https://github.com/tal
 
 Left side:
 
-![Screenshot 1](screenshot1)
+![Screenshot 1](docs/screenshot1.png)
 
 Right side:
 
-![Screenshot 2](screenshot2)
+![Screenshot 2](docs/screenshot2.png)
