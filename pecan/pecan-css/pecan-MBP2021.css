@@ -51,7 +51,7 @@
 
   /* typography 
    ---------------------------------------- */
-  --font: 'JetBrains Mono', OperatorMonoNerdFontComplete-Book, Menlo, Monospace;
+   --font: 'SF Mono', Menlo, Monospace;
   --font-size: 14px;
   --text-padding: 2ch;
 
